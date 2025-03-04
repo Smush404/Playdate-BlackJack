@@ -1,4 +1,4 @@
-local pd   = playdate
+local pd  = playdate
 local gfx = pd.graphics
 
 -- position
